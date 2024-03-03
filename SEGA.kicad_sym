@@ -894,7 +894,7 @@
         (number "100" (effects (font (size 1.27 1.27))))
       )
       (pin unspecified line (at 33.02 -107.95 90) (length 2.54)
-        (name "" (effects (font (size 1.27 1.27))))
+        (name "~{HL}" (effects (font (size 1.27 1.27))))
         (number "101" (effects (font (size 1.27 1.27))))
       )
       (pin unspecified line (at 30.48 -107.95 90) (length 2.54)
