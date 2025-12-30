@@ -10,10 +10,7 @@ The design tries to be a 1:1 recreation of the original IC BD M5 PAL board.
 ## Tips if you decide to make this/get it made
 The dimensions are 240x191mm.
 
-If you decide to get it assembled I suggest only getting the bottom side with all the SMD components done and doing the top yourself.
-The bottom only has jellybean capacitors and resistors, so it's not going to be very expensive.
-
-For the top you will have to salvage at least the 2 video chips.
+You will have to source the 2 SEGA custom chips from either a dead board or a chip dealer.
 
 ## Roadmap:
 Look at the changes in the other revisions.
